@@ -1,0 +1,7 @@
+172.17.0.1 - - [30/Jun/2020 09:30:32] "POST /predict HTTP/1.1" 200 -
+[2020-06-30 09:30:34,945] INFO in app: JSON payload: 
+{json_payload}
+[2020-06-30 09:30:34,946] INFO in app: Inference payload DataFrame: 
+{inference_payload}
+[2020-06-30 09:30:34,946] INFO in app: Scaling Payload: 
+{payload}
