@@ -1,4 +1,5 @@
-[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
+[![UltraViolentLight](https://circleci.com/gh/UltraViolentLight/project-ml-microservice-kubernetes
+.svg?style=svg)](https://app.circleci.com/pipelines/github/UltraViolentLight/project-ml-microservice-kubernetes)
 
 ## Project Overview
 
@@ -30,6 +31,8 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 ## Setup the Environment
 
 * Create a virtualenv and activate it
+* Clon git repo as follows 
+* Clone this repo to your local machine using `git clone https://github.com/UltraViolentLight/project-ml-microservice-kubernetes.git`
 * Run `make install` to install the necessary dependencies
 
 ### Running `app.py`
